@@ -1,0 +1,11 @@
+F6              Run Ruby with current file
+
+F7              Previous Tab
+F8              Next Tab
+
+Ctl+Tab         Switch Tabs
+Ctl+Shft+Tab    Switch Tabs
+
+Ctl+hjkl        Move between tabs
+
+
