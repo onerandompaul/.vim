@@ -4,10 +4,13 @@
 " ====================================
 
 " Auto closing brackets
-imap ( ()<Esc>i
-imap [ []<Esc>i
-imap { {}<Esc>i
-imap < <><Esc>i
+inoremap <silent> ( ()<Left>
+inoremap <silent> [ []<Left>
+inoremap <silent> { {}<Left>
+inoremap <silent> < <><Left>
+inoremap <silent> " ""<Left>
+
+imap <silent> {<Cr> {<Cr>}<Esc>kA<Cr>
 
 " We need this.
 map <C-Space> <Plug>IMAP_JumpForward
