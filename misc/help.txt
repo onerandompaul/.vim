@@ -1,13 +1,13 @@
+A           [Append] Move to end of line and go into insert
+o           Make a new blank line under, then go into INSERT
 
+0           Start of line
+$           End of line
+_           Move to first non-whitespace character
+G           Jump to last line
 
+q(letter)   Start recording
+@(letter)   Play recording
 
-
-
-A               [Append] Move to end of line and go into insert
-o               Make a new blank line under, then go into INSERT
-
-
-0               Start of line
-$               End of line
-_               Move to first non-whitespace character
-G               Jump to last line
+m(letter)   Set mark
+`(letter)   Go to mark

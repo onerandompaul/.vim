@@ -16,3 +16,13 @@ set splitright
 " Text Wrapping
 set wrap
 set linebreak
+
+" Relative number
+set relativenumber
+
+" Highlight Search
+set hlsearch
+
+" Keep you sane
+set noerrorbells
+set visualbell

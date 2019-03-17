@@ -8,4 +8,8 @@ Ctl+Shft+Tab    Switch Tabs
 
 Ctl+hjkl        Move between tabs
 
-
+%               Jump to enclosing brackets
+*               Search for highlighted word
+0               Beginning of line
+_               First non nonspace character of line
+$               End of line
